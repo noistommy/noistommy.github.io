@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgabia_ui"]=self["webpackChunkgabia_ui"]||[]).push([[338],{6338:function(e,n,s){s.r(n),s.d(n,{default:function(){return d}});var a=s(3396);const t={class:"page-contents-header"},r={class:"page-contents-body"};function u(e,n){return(0,a.wg)(),(0,a.iD)(a.HY,null,[(0,a._)("div",t,[(0,a.WI)(e.$slots,"header")]),(0,a._)("div",r,[(0,a.WI)(e.$slots,"body")])],64)}var c=s(89);const i={},o=(0,c.Z)(i,[["render",u]]);var d=o}}]);
+//# sourceMappingURL=338.da0083d5.js.map

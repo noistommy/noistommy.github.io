@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgabia_ui"]=self["webpackChunkgabia_ui"]||[]).push([[637],{2637:function(s,e,a){a.r(e),a.d(e,{default:function(){return d}});var n=a(3396);const t={class:"page-contents-header"},u={class:"page-content-usage"},c={class:"page-contents-body"};function o(s,e){return(0,n.wg)(),(0,n.iD)(n.HY,null,[(0,n._)("div",t,[(0,n.WI)(s.$slots,"header")]),(0,n._)("div",u,[(0,n.WI)(s.$slots,"usage")]),(0,n._)("div",c,[(0,n.WI)(s.$slots,"body")])],64)}var r=a(89);const i={},l=(0,r.Z)(i,[["render",o]]);var d=l}}]);
+//# sourceMappingURL=637.35d4ed8f.js.map
